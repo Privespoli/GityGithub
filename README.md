@@ -1,1 +1,2 @@
-# pri_bootcamp
+Creando mi primer repositório Git.
+Aprendiendo sobre ramas, commits, etc...
