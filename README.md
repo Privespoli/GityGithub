@@ -1,4 +1,4 @@
-# pri_bootcamp
+# GityGithub
  
 Primer repositorio de práctica! | First practice repository!
  
@@ -13,3 +13,5 @@ Este repositorio marca mi punto de partida en Git y GitHub. Lo usé para aprende
 -  Ramas (branches) y fusiones (merge) | Branches and merges
 -  Flujo de trabajo con Git | Git workflow
 ---
+
+creado en: 11.03.2026
